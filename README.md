@@ -12,30 +12,19 @@ providing a comprehensive platform for all dog-related needs.
 
 **Tech used:** HTML, CSS, JavaScript, Bootstrap 
 
-Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write *something*. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
-
-
-
-
+A modern and responsive website. The backbone is formed by HTML, providing a structured layout for seamless navigation. CSS enhances aesthetics, ensuring a visually pleasing design. JavaScript adds interactivity, making the site dynamic and engaging. Bootstrap expedites development with pre-built components and a responsive grid system, ensuring a consistent look across devices. This tech synergy delivers a user-friendly platform for dog owners, featuring interactive services and comprehensive information. Dog Kennels Hub's tech stack harmoniously blends these elements, resulting in a visually appealing, functionally rich, and accessible canine care destination.
 
 
 ## Optimizations
-*(optional)*
+I  optimized the sites loading time as it took a while to load. I achived this my compressing each image which resulted in most picture taking 55% less space. By having the images filling less the websites loading time was hugly improved.  
 
-You don't have to include this section but interviewers *love* that you can not only deliver a final product that looks great but also functions efficiently. Did you write something then refactor it later and the result was 5x faster than the original implementation? Did you cache your assets? Things that you write in this section are **GREAT** to bring up in interviews and you can use this section as reference when studying for technical interviews!
 
 ## Lessons Learned:
+Through this project, I gained valuable insights into building a user-centric website. I deepened my proficiency in HTML for structured content, CSS for aesthetic presentation, and JavaScript for dynamic interactivity. Implementing Bootstrap expedited development --> bootstrap is your friend!. The experience enriched my understanding of creating a cohesive tech stack, harmonizing various elements to deliver a modern, responsive, and engaging platform for users. 
 
-No matter what your experience level, being an engineer means continuously learning. Every time you build something you always have those *whoa this is awesome* or *wow I actually did it!* moments. This is where you should share those moments! Recruiters and interviewers love to see that you're self-aware and passionate about growing.
-
-## Examples:
-Take a look at these couple examples that I have in my own portfolio:
-
-**Palettable:** https://github.com/alecortega/palettable
-
-**Twitter Battle:** https://github.com/alecortega/twitter-battle
-
-**Patch Panel:** https://github.com/alecortega/patch-panel
-
+## Future features 
+- Contact information
+- Location via google maps 
+- Booking your Dog into the Kennel 
 
 
