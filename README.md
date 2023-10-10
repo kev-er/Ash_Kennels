@@ -5,7 +5,7 @@ providing a comprehensive platform for all dog-related needs.
 
 **Link to project:** [https://stately-bunny-f1e8bf.netlify.app/]
 
-![alt tag](https://ibb.co/y0h63x9)
+![](https://ibb.co/y0h63x9)
 
 ## How It's Made:
 
