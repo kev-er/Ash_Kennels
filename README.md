@@ -3,7 +3,7 @@ A modern and responsive website for a dog kennels that prioritises a
 user-friendly design. The site will highlight a diverse range of interactive services,
 providing a comprehensive platform for all dog-related needs.
 
-**Link to project:** [http://recruiters-love-seeing-live-demos.com/](https://stately-bunny-f1e8bf.netlify.app/)
+**Link to project:** [https://stately-bunny-f1e8bf.netlify.app/]
 
 ![alt tag](http://placecorgi.com/1200/650)
 
